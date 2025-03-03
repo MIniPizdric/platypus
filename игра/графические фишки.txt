@@ -1,1 +1,4 @@
 god rays (белые полосы + чтобы они плавно мигали + сглаживаешь их и делаешь прозрачными)
+Vector3.lerp (линейная интерполяция)
+Vector3.smoothdamp
+Vector3.movetowards
