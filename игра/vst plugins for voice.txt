@@ -1,0 +1,8 @@
+ VST Плагины:
+• FabFilter Pro-Q3
+• Waves NS1
+• Waves S1 Imager
+• FabFilter Pro-C2
+• FabFilter Pro-DS
+• BREVERB 2
+• Altiverb 7
